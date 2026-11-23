@@ -6,7 +6,7 @@ I'm a junior at NCSSM (North Carolina School of Science and Mathematics) and I w
 
 - [Engineering Trade-Off Visualizer](https://github.com/tanaymishra1/engineering-tradeoff-visualizer): a web app that scores design options on speed, torque and cost and ranks the ones you save. [Try it here](https://tanaymishra1.github.io/engineering-tradeoff-visualizer/).
 - [Engineering Trade-Off Simulator](https://github.com/tanaymishra1/engineering-tradeoff-simulator): the Python command-line version, which is where the idea started.
-- GalaXiuZ: a learning and entertainment website I built and ran. It had about 100 visitors according to Hostinger. It's frozen now, and the code is private.
+- GalaXiuZ: my first website, a concept site for an all-in-one platform covering learning, entertainment and more. I'm rebuilding it from scratch, and the code is private.
 
 ## What's next
 

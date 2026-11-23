@@ -8,7 +8,6 @@ I'm a junior at NCSSM (North Carolina School of Science and Mathematics) and I w
 - [Engineering Trade-Off Simulator](https://github.com/tanaymishra1/engineering-tradeoff-simulator): the Python command-line version, which is where the idea started.
 - GalaXiuZ: my first website, a concept site for an all-in-one platform covering learning, entertainment and more. I'm rebuilding it from scratch, and the code is private.
 
-
 ## What's next
 
 A low-cost irrigation controller that waters based on soil moisture instead of a timer. I'm aiming for a working bench prototype in January 2027 and a test on a real garden by May.

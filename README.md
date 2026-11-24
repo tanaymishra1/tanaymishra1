@@ -15,7 +15,7 @@ A low-cost irrigation controller that waters based on soil moisture instead of a
 
 ## Skills
 
-Python, JavaScript, HTML and CSS. I'm a junior TA in the NCSSM Fab Lab, where I do 3D printing, laser cutting and electronics, and I'm still learning CAD.
+Python (including pandas and scikit-learn), JavaScript, HTML and CSS. I'm a junior TA in the NCSSM Fab Lab, where I do 3D printing, laser cutting and electronics, and I'm still learning CAD.
 
 ## Contact
 

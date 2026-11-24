@@ -4,6 +4,7 @@ I'm a junior at NCSSM (North Carolina School of Science and Mathematics) and I w
 
 ## Things I've built
 
+- [Charlotte Rain-Skip Check](https://github.com/tanaymishra1/charlotte-rain-skip): uses 10 years of NOAA weather data to check a sprinkler timer in Charlotte. 15.4% of its waterings came right after real rain, and a rain-aware schedule saved 9.6% of waterings. I also tested a machine learning rain model, which couldn't beat a simple guess.
 - [Engineering Trade-Off Visualizer](https://github.com/tanaymishra1/engineering-tradeoff-visualizer): a web app that scores design options on speed, torque and cost and ranks the ones you save. [Try it here](https://tanaymishra1.github.io/engineering-tradeoff-visualizer/).
 - [Engineering Trade-Off Simulator](https://github.com/tanaymishra1/engineering-tradeoff-simulator): the Python command-line version, which is where the idea started.
 - GalaXiuZ: my first website, a concept site for an all-in-one platform covering learning, entertainment and more. I'm rebuilding it from scratch, and the code is private.
@@ -14,7 +15,7 @@ A low-cost irrigation controller that waters based on soil moisture instead of a
 
 ## Skills
 
-Python, JavaScript, HTML and CSS. I'm a junior TA in the NCSSM Fab Lab, where I do 3D printing, laser cutting and electronics, and I'm still learning CAD.
+Python (including pandas and scikit-learn), JavaScript, HTML and CSS. I'm a junior TA in the NCSSM Fab Lab, where I do 3D printing, laser cutting and electronics, and I'm still learning CAD.
 
 ## Contact
 
